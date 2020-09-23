@@ -1,0 +1,8 @@
+This Program will Generate the VB code nessecary to print the form you visually design.
+
+I've used Stuart Naylor 's TiResize control and modified it for use in the program.
+
+Roja's Code fixer was used to find problems in the code.
+
+Thanks to Roger Gilchrist and Gary Martin for their feedback.
+PFCC now has different paper sizes, metric grid scale and landscape capabilities.
